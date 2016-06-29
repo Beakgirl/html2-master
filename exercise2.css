@@ -38,12 +38,9 @@
 	font-weight: bold;
 }
 
-.nav {
-
-	background-color: red;
-}
 
 li a {
 
 	color: white;
+	background-color: red;
 }
